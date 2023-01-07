@@ -2,7 +2,7 @@
 
 HI GUYS!
 
-Google Vision API is a pre-trained most avdanced OCR for Computer Vision and Iamge processing.
+Google Vision API is a pre-trained most avdanced OCR for Computer Vision and Image processing.
 This project involves in the conversion of Handwritten data to Text and store it in a text file. 
 
 HOW TO USE :
